@@ -1,4 +1,4 @@
-# Pedidos360 – Productos
+# Tecnomarket – Productos
 
 Microservicio de productos (Spring Boot 4.1, Java 17) protegido con JWT de Amazon Cognito.
 Forma parte de Pedidos360 junto con `Pedidos360-backend` (microservicio de pedidos).
